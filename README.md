@@ -24,15 +24,13 @@
 </tr>
 </table>
 
-<div align="center">
+##Страйк по дням
 
-## 🔥 Страйк по дням
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=annlegkaya08&theme=dark&hide_border=true" alt="GitHub streak"/>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=annlegkaya08&theme=dark&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
-## 🚀 Проекты
+##Проекты
 
 | Проект | Описание | Стек |
 |---|---|---|
@@ -42,14 +40,14 @@
 | [**invest_calc_kt**](https://github.com/annlegkaya08/invest_calc_kt) | Калькулятор инвестиций: расчёт доходности и графики | `Kotlin` |
 | [**PAQ_android**](https://github.com/annlegkaya08/PAQ_android) | Планер с повторениями и  | `Kotlin` `Android` |
 
-## 🏆 Хакатоны
+##Хакатоны
 
 | Проект | Моя роль | Стек |
 |---|---|---|
 | [**Интер РАО 2026**](https://github.com/kraxiqt/ai_agent.git) | Фронтенд и разработка продукта | `TypeScript` `React` |
 | [**Hack&Change 2026**](https://github.com/kraxiqt/bizagent.git) | Фронтенд и разработка продукта | `TypeScript` `React` |
 
-## 📚 Учёба и др. репозитории
+##Учёба и др. репозитории
 
 <table>
 <tr>
