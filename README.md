@@ -26,8 +26,9 @@
 
 ##Страйк по дням
 
-<p align="center">
- <img src="https://ghchart.rshah.org/39d353/annlegkaya08" alt="GitHub contributions" width="100%"/>
+<p>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/D9573A/annlegkaya08">
+  <img src="https://ghchart.rshah.org/2F5597/annlegkaya08" alt="GitHub contributions" width="100%"/>
 </p>
 
 ##Проекты
