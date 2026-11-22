@@ -27,7 +27,7 @@
 ##Страйк по дням
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=annlegkaya08&theme=dark&hide_border=true" alt="GitHub streak"/>
+ <img src="https://ghchart.rshah.org/39d353/annlegkaya08" alt="GitHub contributions" width="100%"/>
 </p>
 
 ##Проекты
