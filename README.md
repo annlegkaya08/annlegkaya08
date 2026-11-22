@@ -26,10 +26,10 @@
 
 ##Страйк по дням
 
-<p>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/D9573A/annlegkaya08">
   <img src="https://ghchart.rshah.org/2F5597/annlegkaya08" alt="GitHub contributions" width="100%"/>
-</p>
+</picture>
 
 ##Проекты
 
@@ -57,8 +57,5 @@
 - [**cs_fundamentals_roadmap**](https://github.com/annlegkaya08/cs_fundamentals_roadmap): план изучения основ CS и конспекты(soon)
 
 </td>
-<td width="35%" align="center">
-  <img src="./img/reading.png" width="200" alt="Учёба"/>
-</td>
-</tr>
+
 </table>
