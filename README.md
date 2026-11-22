@@ -36,7 +36,7 @@
 |---|---|---|
 | [**invest_calc**](https://github.com/annlegkaya08/invest-calc.git) | Аналитика инвестиционного портфеля | `Java` `Springboot` |
 | [**try-ktor**](https://github.com/annlegkaya08/try-ktor.git) | Симулятор сложного процента с доп. параметрами | `Kotlin` `TypeScript` |
-| [**invest_calc**](https://github.com/annlegkaya08/unitCalculator.git)| Калькулятор юнит-экономики | `Java` `Springboot` |
+| [**unit calc**](https://github.com/annlegkaya08/unitCalculator.git)| Калькулятор юнит-экономики | `Java` `Springboot` |
 | [**invest_calc_kt**](https://github.com/annlegkaya08/invest_calc_kt) | Калькулятор инвестиций: расчёт доходности и графики | `Kotlin` |
 | [**PAQ_android**](https://github.com/annlegkaya08/PAQ_android) | Планер с повторениями и  | `Kotlin` `Android` |
 
