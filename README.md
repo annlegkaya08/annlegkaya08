@@ -24,13 +24,6 @@
 </tr>
 </table>
 
-##Страйк по дням
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/D9573A/annlegkaya08">
-  <img src="https://ghchart.rshah.org/2F5597/annlegkaya08" alt="GitHub contributions" width="100%"/>
-</picture>
-
 ##Проекты
 
 | Проект | Описание | Стек |
@@ -39,7 +32,7 @@
 | [**try-ktor**](https://github.com/annlegkaya08/try-ktor.git) | Симулятор сложного процента с доп. параметрами | `Kotlin` `TypeScript` |
 | [**unit calc**](https://github.com/annlegkaya08/unitCalculator.git)| Калькулятор юнит-экономики | `Java` `Springboot` |
 | [**invest_calc_kt**](https://github.com/annlegkaya08/invest_calc_kt) | Калькулятор инвестиций: расчёт доходности и графики | `Kotlin` |
-| [**PAQ_android**](https://github.com/annlegkaya08/PAQ_android) | Планер с повторениями и  | `Kotlin` `Android` |
+| [**PAQ_android**](https://github.com/annlegkaya08/PAQ_android) | Планер с повторениями и будильниками | `Kotlin` `Android` |
 
 ##Хакатоны
 
